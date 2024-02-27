@@ -20,7 +20,7 @@ body {
 
   .hexagon {
     position: absolute; /* Change to absolute positioning */
-    top: -15%; /* Adjust the top position as needed */
+    top: -10%; /* Adjust the top position as needed */
     width: 200px;
     height: 100px;
   }
@@ -37,7 +37,7 @@ body {
     border-radius: 8px;
     padding: 1.5rem;
     width: 80%;
-    bottom: 0%;
+  
     max-width: 450px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     text-align: center; /* Centering the content inside .sign */
